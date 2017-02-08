@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic);
+@import url(../bootstrap-social-gh-pages/bootstrap-social.less);
+html{
+  white-space: nowrap;
+}
+body{
+    background-color: #F8F8FF;
+}
+container{
+    background-image: url("../images/ull_color_vertical.jpg");
+}
+*{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.05em;
+}
